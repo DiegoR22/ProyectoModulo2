@@ -1,0 +1,325 @@
+#input-list  {
+    position: absolute;
+    left: 45%;
+    bottom: 85%;
+    
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+
+.resultado {
+    position: absolute;
+left: 6.99%;
+right: 62.75%;
+top: 30.58%;
+bottom: 72.08%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+letter-spacing: 0.15px;
+
+color: #009688;
+
+}
+
+.nombre {
+    position: absolute;
+width: 65px;
+height: 36px;
+left: 6.60%;
+top: 241px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+letter-spacing: 0.15px;
+
+/* Black / High Emphasis */
+
+color: rgba(0, 0, 0, 0.87);
+
+}
+
+.artista {
+    position: absolute;
+width: 65px;
+height: 36px;
+left: 27%;
+top: 241px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+letter-spacing: 0.15px;
+
+/* Black / High Emphasis */
+
+color: rgba(0, 0, 0, 0.87);
+
+}
+
+.album {
+    position: absolute;
+width: 65px;
+height: 36px;
+left: 47%;
+top: 241px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+letter-spacing: 0.15px;
+
+/* Black / High Emphasis */
+
+color: rgba(0, 0, 0, 0.87);
+}
+
+.duracion {
+    position: absolute;
+width: 65px;
+height: 36px;
+left: 67%;
+top: 241px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+letter-spacing: 0.15px;
+
+/* Black / High Emphasis */
+
+color: rgba(0, 0, 0, 0.87);
+
+}
+
+.agregar {
+    position: absolute;
+width: 59px;
+height: 36px;
+left: 83%;
+top: 241px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+letter-spacing: 0.15px;
+
+/* Black / High Emphasis */
+
+color: rgba(0, 0, 0, 0.87);
+}
+
+.sinresultados {
+    position: absolute;
+left: 27.11%;
+right: 27.19%;
+top: 50.19%;
+bottom: 36.78%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+
+
+letter-spacing: 0.15px;
+
+color: #C4C4C4;
+}
+
+.tuplaylist {
+    position: absolute;
+width: 394px;
+height: 44px;
+left: 6.99%;
+top: 420px;
+
+/* H6 - med 20 (30px, 0.15px) */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+
+letter-spacing: 0.15px;
+
+color: #009688;
+}
+
+.Nombre {
+    position: absolute;
+width: 65px;
+height: 36px;
+left: 6.60%;
+top: 459px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+letter-spacing: 0.15px;
+
+/* Black / High Emphasis */
+
+color: rgba(0, 0, 0, 0.87);
+}
+
+.Artista {
+    position: absolute;
+width: 65px;
+height: 36px;
+left: 27%;
+top: 459px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+letter-spacing: 0.15px;
+
+/* Black / High Emphasis */
+
+color: rgba(0, 0, 0, 0.87);
+}
+
+.Duracion {
+    position: absolute;
+width: 65px;
+height: 36px;
+left: 47%;
+top: 459px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+letter-spacing: 0.15px;
+
+/* Black / High Emphasis */
+
+color: rgba(0, 0, 0, 0.87);
+}
+
+.Cantvoto {
+    position: absolute;
+width: 88px;
+height: 36px;
+left: 65%;
+top: 459px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+letter-spacing: 0.15px;
+
+/* Black / High Emphasis */
+
+color: rgba(0, 0, 0, 0.87);
+
+}
+
+.Votar {
+    position: absolute;
+width: 56px;
+height: 36px;
+left: 83%;
+top: 459px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+letter-spacing: 0.15px;
+
+/* Black / High Emphasis */
+
+color: rgba(0, 0, 0, 0.87);
+
+}
+
+.UPS {
+    position: absolute;
+left: 37.48%;
+right: 37.48%;
+top: 95.25%;
+bottom: 70%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+
+text-align: center;
+letter-spacing: 0.15px;
+
+color: #C4C4C4;
+}
+
+.Comienza {
+    position: absolute;
+left: 39.86%;
+right: 39.86%;
+top: 106%;
+bottom: 36.19%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+
+text-align: center;
+letter-spacing: 0.15px;
+
+color: #C4C4C4;
+
+}

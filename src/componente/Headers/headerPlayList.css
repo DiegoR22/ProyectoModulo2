@@ -1,0 +1,17 @@
+*{padding: 0%;
+    margin: 0%;}
+    .contenedor {
+        background-color: #009688;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 15px;
+    }
+    .logo {
+        width: 37px;
+        height: 37px;
+        margin-right: 20px;
+    }
+    .titulo{
+        margin-right: 50%;
+    }

@@ -1,0 +1,74 @@
+body {
+    background: #e5e5e5;
+  }
+  h1 {
+    color: #ffffff;
+    font-family: Righteous, cursive;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.24);
+    padding: 0px 0px 5px 30px;
+    background: #009688;
+  }
+  img {
+    position: absolute;
+    left: 32%;
+  }
+  
+  .form h2 {
+    font-family: Roboto;
+    font-style: normal;
+    position: absolute;
+  left: 44.58%;
+  right: 47.08%;
+  top: 27%;
+  
+    
+  }
+  
+  .form img{
+    position: absolute;
+  width: 104px;
+  height: 89px;
+  left: 43%;
+  bottom: 70%;
+  
+  }
+  
+  .Datos input[type=email]{
+    position: absolute;
+  left: 40%;
+  bottom: 50%;
+  border: 1px solid #E5E5E5;
+  box-sizing: border-box;
+  border-radius: 50px;
+  
+  
+  
+  
+  }
+  
+  .Datos input[type=password]{
+    position: absolute;
+    left: 40%;
+    bottom: 60%;
+    border: 1px solid #E5E5E5;
+  box-sizing: border-box;
+  border-radius: 50px;
+  
+  }
+  
+  .Datos input[type=submit]{
+    position: absolute;
+    left: 40%;
+    bottom: 35%
+  
+  }
+  
+  .recuperar{
+    font-family: Roboto;
+    position: absolute;
+    bottom: 27%;
+    left: 31%
+  }

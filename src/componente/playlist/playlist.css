@@ -1,0 +1,270 @@
+.resultado {
+    position: absolute;
+left: 6.99%;
+right: 62.75%;
+top: 30.58%;
+bottom: 72.08%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+letter-spacing: 0.15px;
+
+color: #009688;
+
+}
+
+.nombre {
+    position: absolute;
+width: 65px;
+height: 36px;
+left: 6.60%;
+top: 241px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+letter-spacing: 0.15px;
+
+/* Black / High Emphasis */
+
+color: rgba(0, 0, 0, 0.87);
+
+}
+
+.artista {
+    position: absolute;
+width: 65px;
+height: 36px;
+left: 27%;
+top: 241px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+letter-spacing: 0.15px;
+
+/* Black / High Emphasis */
+
+color: rgba(0, 0, 0, 0.87);
+
+}
+
+.album {
+    position: absolute;
+width: 65px;
+height: 36px;
+left: 47%;
+top: 241px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+letter-spacing: 0.15px;
+
+/* Black / High Emphasis */
+
+color: rgba(0, 0, 0, 0.87);
+}
+
+.duracion {
+    position: absolute;
+width: 65px;
+height: 36px;
+left: 67%;
+top: 241px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+letter-spacing: 0.15px;
+
+/* Black / High Emphasis */
+
+color: rgba(0, 0, 0, 0.87);
+
+}
+
+.agregar {
+    position: absolute;
+width: 59px;
+height: 36px;
+left: 83%;
+top: 241px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+letter-spacing: 0.15px;
+
+/* Black / High Emphasis */
+
+color: rgba(0, 0, 0, 0.87);
+}
+
+.tuplaylist {
+    position: absolute;
+width: 394px;
+height: 44px;
+left: 6.99%;
+top: 420px;
+
+/* H6 - med 20 (30px, 0.15px) */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+
+letter-spacing: 0.15px;
+
+color: #009688;
+}
+
+.Nombre {
+    position: absolute;
+width: 65px;
+height: 36px;
+left: 6.60%;
+top: 459px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+letter-spacing: 0.15px;
+
+/* Black / High Emphasis */
+
+color: rgba(0, 0, 0, 0.87);
+}
+
+.Artista {
+    position: absolute;
+width: 65px;
+height: 36px;
+left: 27%;
+top: 459px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+letter-spacing: 0.15px;
+
+/* Black / High Emphasis */
+
+color: rgba(0, 0, 0, 0.87);
+}
+
+.Duracion {
+    position: absolute;
+width: 65px;
+height: 36px;
+left: 47%;
+top: 459px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+letter-spacing: 0.15px;
+
+/* Black / High Emphasis */
+
+color: rgba(0, 0, 0, 0.87);
+}
+
+.Cantvoto {
+    position: absolute;
+width: 88px;
+height: 36px;
+left: 65%;
+top: 459px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+letter-spacing: 0.15px;
+
+/* Black / High Emphasis */
+
+color: rgba(0, 0, 0, 0.87);
+
+}
+
+.Votar {
+    position: absolute;
+width: 56px;
+height: 36px;
+left: 83%;
+top: 459px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+letter-spacing: 0.15px;
+
+/* Black / High Emphasis */
+
+color: rgba(0, 0, 0, 0.87);
+
+}
+
+.can1 {
+    position: absolute;
+left: -25%;
+right: -25%;
+top: 0%;
+bottom: 0%;
+}
+
+#can1 {
+    position: absolute;
+height: 21px;
+left: 56px;
+right: 983px;
+top: calc(50% - 21px/2);
+}
